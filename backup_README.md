@@ -3,7 +3,7 @@ System Command Execution PHP Script to test websites against execution of system
 This PHP script allows the execution of system commands via HTTP requests. It takes a command as input via the "cmd" parameter in the URL and executes it on the server.
 
 Usage:
-1. Place the cmd.php file on your web server.
+1. Place the backup.php file on your web server.
 2. Access the script via a web browser and append "?cmd=<command>" to the URL to execute system commands.
 
 Security Considerations:
