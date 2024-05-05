@@ -3,7 +3,7 @@ Visitor IP Logging PHP Script
 This PHP script (log.php) is designed to log visitor information when accessed via a web browser. It captures details such as IP address, user agent, request method, referring URL, and date/time of access.
 
 Usage:
-1. Place the log.php file on your web server.
+1. Place the whatever.php file on your web server.
 2. Ensure that the web server has write permissions to create and append to the log file (log.txt).
 3. Access the script via a web browser to log visitor information.
 
